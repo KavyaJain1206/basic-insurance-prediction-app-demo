@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = ""http://0.0.0.0:8000/predict"" 
+API_URL = "http://0.0.0.0:8000/predict" 
 
 st.title("Insurance Premium Category Predictor")
 st.markdown("Enter your details below:")
